@@ -454,7 +454,7 @@
     },
     "properties": {
       "classification": {
-        "name": "Other",
+        "name": "Region*",
         "colorRGB": -14336
       },
       "isLocked": false,
