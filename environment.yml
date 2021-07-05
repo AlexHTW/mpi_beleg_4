@@ -1,0 +1,7 @@
+name: mip_beleg_4
+dependencies:
+  - numpy
+  - matplotlib
+  - pip
+  - pip:
+    - pycpd
